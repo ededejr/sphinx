@@ -1,7 +1,9 @@
 # Sphinx
 A CLI Token Generator implemented in Go. The generated token is automatically copied to your clipboard.
 
-![Sphinx]("./sphinx.png)
+<p align="center">
+  <img src="./sphinx.png" width="200px" height="200px" />
+</p>
 
 ## Usage
 The binary is included in source so you can download just the `sphinx` file if you choose.

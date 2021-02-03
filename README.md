@@ -22,7 +22,9 @@ The binary is included in source so you can download just the `sphinx` file if y
 
 > You can also just click on the file. The output is copied to your clipboard by default.
 
-### Character Index
+## Appendix
+
+### Characters
 - `A`: Uppercase
 - `a`: Lowercase
 - `0`: Numerics

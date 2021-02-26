@@ -17,12 +17,12 @@ The binary is included in source so you can download just the `sphinx` file if y
 
 ### Platform Specific
 #### Unix
-1. Open terminal
-2. `./sphinx`
+1. Open terminal and go to the project folder
+2. Run with `./sphinx`
 
 #### Windows
-1. Open CMD to wherever you put the downloaded file
-2. `sphinx.exe`
+1. You need to build the program for windows using `go`
+2. Run with `sphinx.exe`
 
 > You can also just click on the file. The output is copied to your clipboard by default.
 
